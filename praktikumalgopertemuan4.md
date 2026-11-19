@@ -732,6 +732,6 @@ Penguasaan struktur kontrol menjadi fondasi untuk mempelajari pengolahan data, m
 
 ### **Referensi Pembelajaran**
 
-1. Python Software Foundation. *The Python Tutorial – More Control Flow Tools*. [https://docs.python.org/3/tutorial/controlflow.html](https://docs.python.org/3/tutorial/controlflow.html?utm_source=chatgpt.com)
-2. Python Software Foundation. *Built-in Functions – range()*. [https://docs.python.org/3/library/functions.html#func-range](https://docs.python.org/3/library/functions.html?utm_source=chatgpt.com#func-range)
+1. Python Software Foundation. *The Python Tutorial – More Control Flow Tools*. [https://docs.python.org/3/tutorial/controlflow.html](https://docs.python.org/3/tutorial/controlflow.html)
+2. Python Software Foundation. *Built-in Functions – range()*. [https://docs.python.org/3/library/functions.html#func-range](https://docs.python.org/3/library/functions.html)
 3. Matthes, E. (2023). *Python Crash Course*, 3rd Edition. No Starch Press.
